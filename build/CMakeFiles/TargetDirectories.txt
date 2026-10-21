@@ -1,0 +1,3 @@
+/Users/arthurmardanshin/Image_Processor/build/CMakeFiles/image_processor.dir
+/Users/arthurmardanshin/Image_Processor/build/CMakeFiles/edit_cache.dir
+/Users/arthurmardanshin/Image_Processor/build/CMakeFiles/rebuild_cache.dir

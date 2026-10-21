@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/arthurmardanshin/Image_Processor/build",
+  "command": "/usr/bin/c++  -I/Users/arthurmardanshin/Image_Processor/include -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/image_processor.dir/src/createFilterFactory.cpp.o -c /Users/arthurmardanshin/Image_Processor/src/createFilterFactory.cpp",
+  "file": "/Users/arthurmardanshin/Image_Processor/src/createFilterFactory.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/createFilterFactory.cpp.o"
+},
+{
+  "directory": "/Users/arthurmardanshin/Image_Processor/build",
+  "command": "/usr/bin/c++  -I/Users/arthurmardanshin/Image_Processor/include -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/image_processor.dir/src/filters.cpp.o -c /Users/arthurmardanshin/Image_Processor/src/filters.cpp",
+  "file": "/Users/arthurmardanshin/Image_Processor/src/filters.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/filters.cpp.o"
+},
+{
+  "directory": "/Users/arthurmardanshin/Image_Processor/build",
+  "command": "/usr/bin/c++  -I/Users/arthurmardanshin/Image_Processor/include -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/image_processor.dir/src/image.cpp.o -c /Users/arthurmardanshin/Image_Processor/src/image.cpp",
+  "file": "/Users/arthurmardanshin/Image_Processor/src/image.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/image.cpp.o"
+},
+{
+  "directory": "/Users/arthurmardanshin/Image_Processor/build",
+  "command": "/usr/bin/c++  -I/Users/arthurmardanshin/Image_Processor/include -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/image_processor.dir/src/image_processor.cpp.o -c /Users/arthurmardanshin/Image_Processor/src/image_processor.cpp",
+  "file": "/Users/arthurmardanshin/Image_Processor/src/image_processor.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/image_processor.cpp.o"
+},
+{
+  "directory": "/Users/arthurmardanshin/Image_Processor/build",
+  "command": "/usr/bin/c++  -I/Users/arthurmardanshin/Image_Processor/include -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/image_processor.dir/src/matrixFilter.cpp.o -c /Users/arthurmardanshin/Image_Processor/src/matrixFilter.cpp",
+  "file": "/Users/arthurmardanshin/Image_Processor/src/matrixFilter.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/matrixFilter.cpp.o"
+},
+{
+  "directory": "/Users/arthurmardanshin/Image_Processor/build",
+  "command": "/usr/bin/c++  -I/Users/arthurmardanshin/Image_Processor/include -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/image_processor.dir/src/parser.cpp.o -c /Users/arthurmardanshin/Image_Processor/src/parser.cpp",
+  "file": "/Users/arthurmardanshin/Image_Processor/src/parser.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/parser.cpp.o"
+},
+{
+  "directory": "/Users/arthurmardanshin/Image_Processor/build",
+  "command": "/usr/bin/c++  -I/Users/arthurmardanshin/Image_Processor/include -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/image_processor.dir/src/pixel.cpp.o -c /Users/arthurmardanshin/Image_Processor/src/pixel.cpp",
+  "file": "/Users/arthurmardanshin/Image_Processor/src/pixel.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/pixel.cpp.o"
+}
+]
